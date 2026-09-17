@@ -1,28 +1,27 @@
 <p align="center">
-  <img src="./assets/banner.png"
-       alt="Ramavath Sunil Kumar Banner"
-       usemap="#bannermap"
-       style="display:block; width:100%; border-radius:8px;" />
+  <span style="position:relative; display:inline-block; width:100%; max-width:1024px;">
 
-  <map name="bannermap">
-    <area shape="rect"
-          coords="34,230,139,264"
-          href="https://www.linkedin.com/in/ramavath-sunil-kumar-3108472aa"
-          target="_blank"
-          alt="LinkedIn">
+    <!-- Entire banner → LinkedIn -->
+    <a href="https://www.linkedin.com/in/ramavath-sunil-kumar-3108472aa"
+       target="_blank">
+      <img src="./assets/banner.png"
+           alt="Ramavath Sunil Kumar Banner"
+           style="display:block; width:100%; border-radius:8px;">
+    </a>
 
-    <area shape="rect"
-          coords="157,230,259,264"
-          href="https://github.com/sunil-kumar45"
-          target="_blank"
-          alt="GitHub">
+    <!-- GitHub button inside banner -->
+    <a href="https://github.com/sunil-kumar45"
+       target="_blank"
+       style="position:absolute; left:15.3%; top:68.4%; width:10%; height:9%; display:block;">
+    </a>
 
-    <area shape="rect"
-          coords="281,230,400,264"
-          href="[https://www.instagram.com/s_u_n_i_l_kumar_45](https://www.instagram.com/s_u_n_i_l_kumar_45?stkn=bzc0ZGNjZWJtZTlq)"
-          target="_blank"
-          alt="Instagram">
-  </map>
+    <!-- Instagram button inside banner -->
+    <a href="https://www.instagram.com/s_u_n_i_l_kumar_45"
+       target="_blank"
+       style="position:absolute; left:27.4%; top:68.4%; width:10.4%; height:10%; display:block;">
+    </a>
+
+  </span>
 </p>
 
 # Hi 👋, I'm Ramavath Sunil Kumar
