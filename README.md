@@ -1,16 +1,33 @@
 <p align="center">
-<img src="./assets/banner.png" alt="Ramavath Sunil Kumar Banner" usemap="#bannermap" style="display:block;width:100%;max-width:1024px;border-radius:8px;">
-<map name="bannermap">
-<area shape="rect" coords="34,230,139,264" href="https://www.linkedin.com/in/ramavath-sunil-kumar-3108472aa" target="_blank" alt="LinkedIn">
-<area shape="rect" coords="157,230,259,264" href="https://github.com/sunil-kumar45" target="_blank" alt="GitHub">
-<area shape="rect" coords="281,230,400,264" href="https://www.instagram.com/s_u_n_i_l_kumar_45?stkn=bzc0ZGNjZWJtZTlq" target="_blank" alt="Instagram">
-<area shape="rect" coords="0,0,1024,230" href="https://www.linkedin.com/in/ramavath-sunil-kumar-3108472aa" target="_blank" alt="LinkedIn">
-<area shape="rect" coords="0,264,1024,1024" href="https://www.linkedin.com/in/ramavath-sunil-kumar-3108472aa" target="_blank" alt="LinkedIn">
-<area shape="rect" coords="0,230,34,264" href="https://www.linkedin.com/in/ramavath-sunil-kumar-3108472aa" target="_blank" alt="LinkedIn">
-<area shape="rect" coords="139,230,157,264" href="https://www.linkedin.com/in/ramavath-sunil-kumar-3108472aa" target="_blank" alt="LinkedIn">
-<area shape="rect" coords="259,230,281,264" href="https://www.linkedin.com/in/ramavath-sunil-kumar-3108472aa" target="_blank" alt="LinkedIn">
-<area shape="rect" coords="400,230,1024,264" href="https://www.linkedin.com/in/ramavath-sunil-kumar-3108472aa" target="_blank" alt="LinkedIn">
-</map>
+  <img src="./assets/banner.png"
+       alt="Ramavath Sunil Kumar Banner"
+       usemap="#banner-map"
+       style="display:block;width:100%;max-width:1024px;border-radius:8px;">
+
+  <map name="banner-map">
+    <area shape="rect"
+          coords="34,230,139,264"
+          href="https://www.linkedin.com/in/ramavath-sunil-kumar-3108472aa"
+          target="_blank"
+          alt="LinkedIn">
+
+    <area shape="rect"
+          coords="157,230,259,264"
+          href="https://github.com/sunil-kumar45"
+          target="_blank"
+          alt="GitHub">
+
+    <area shape="rect"
+          coords="281,230,400,264"
+          href="https://www.instagram.com/s_u_n_i_l_kumar_45?stkn=bzc0ZGNjZWJtZTlq"
+          target="_blank"
+          alt="Instagram">
+
+    <area shape="default"
+          href="https://www.linkedin.com/in/ramavath-sunil-kumar-3108472aa"
+          target="_blank"
+          alt="LinkedIn">
+  </map>
 </p>
 
 # Hi 👋, I'm Ramavath Sunil Kumar
