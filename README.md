@@ -1,19 +1,28 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Ramavath Sunil Kumar Banner" width="100%" />
-</p>
+  <img src="./assets/banner.png"
+       alt="Ramavath Sunil Kumar Banner"
+       usemap="#bannermap"
+       style="display:block; width:100%; border-radius:8px;" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ramavath-sunil-kumar-3108472aa" target="_blank">
-    🔵 LinkedIn
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/sunil-kumar45" target="_blank">
-    ⚫ GitHub
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/s_u_n_i_l_kumar_45" target="_blank">
-    🟣 Instagram
-  </a>
+  <map name="bannermap">
+    <area shape="rect"
+          coords="34,230,139,264"
+          href="https://www.linkedin.com/in/ramavath-sunil-kumar-3108472aa"
+          target="_blank"
+          alt="LinkedIn">
+
+    <area shape="rect"
+          coords="157,230,259,264"
+          href="https://github.com/sunil-kumar45"
+          target="_blank"
+          alt="GitHub">
+
+    <area shape="rect"
+          coords="281,230,400,264"
+          href="https://www.instagram.com/s_u_n_i_l_kumar_45"
+          target="_blank"
+          alt="Instagram">
+  </map>
 </p>
 
 # Hi 👋, I'm Ramavath Sunil Kumar
