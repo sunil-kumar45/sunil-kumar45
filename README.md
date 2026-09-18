@@ -1,19 +1,18 @@
 <p align="center">
-  <span style="position: relative; display: inline-block; width: 100%; max-width: 1024px;">
-    <a href="https://www.linkedin.com/in/ramavath-sunil-kumar-3108472aa" target="_blank">
-      <img src="./assets/banner.png" alt="Ramavath Sunil Kumar Banner" width="100%" usemap="#bannermap" style="display: block; width: 100%; border-radius: 8px;" />
-    </a>
-    <a href="https://www.linkedin.com/in/ramavath-sunil-kumar-3108472aa" target="_blank" title="LinkedIn: Ramavath Sunil Kumar" style="position: absolute; left: 3.3%; top: 60.4%; width: 10.3%; height: 8.9%; display: block; border-radius: 4px;"></a>
-    <a href="https://github.com/sunil-kumar45" target="_blank" title="GitHub: sunil-kumar45" style="position: absolute; left: 15.3%; top: 60.4%; width: 10.0%; height: 8.9%; display: block; border-radius: 4px;"></a>
-    <a href="https://www.instagram.com/s_u_n_i_l_kumar_45?stkn=bzc0ZGNjZWJtZTlq" target="_blank" title="Instagram" style="position: absolute; left: 27.4%; top: 60.4%; width: 11.6%; height: 8.9%; display: block; border-radius: 4px;"></a>
-  </span>
+  <img src="./assets/banner.png" alt="Ramavath Sunil Kumar Banner" width="100%" style="display: block; width: 100%; max-width: 1024px; border-radius: 8px;" />
 </p>
 
-<map name="bannermap">
-  <area shape="rect" coords="34,230,139,264" href="https://www.linkedin.com/in/ramavath-sunil-kumar-3108472aa" alt="LinkedIn" target="_blank">
-  <area shape="rect" coords="157,230,259,264" href="https://github.com/sunil-kumar45" alt="GitHub" target="_blank">
-  <area shape="rect" coords="281,230,400,264" href="https://www.instagram.com/s_u_n_i_l_kumar_45?stkn=bzc0ZGNjZWJtZTlq" alt="Instagram" target="_blank">
-</map>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ramavath-sunil-kumar-3108472aa" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/sunil-kumar45" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/s_u_n_i_l_kumar_45?stkn=bzc0ZGNjZWJtZTlq" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
 # Hi 👋, I'm Ramavath Sunil Kumar
 
