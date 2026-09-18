@@ -106,7 +106,7 @@ Interactive analytical dashboard analyzing accidents in rural and urban areas ov
 
 **Tech Stack:** `Power BI • Excel • Data Analytics • EDA • Tableau`
 
-[📁 View Repository](https://github.com/sunil-kumar45/road-accidents-dashboard)
+[📁 View Repository](https://github.com/sunil-kumar45/Road-accidents-dashboard-using-excel)
 
 
 ### ⭐ Movie Recommendation System
@@ -136,7 +136,7 @@ Full-stack database management system for train schedules, seat reservations, li
 
 **Tech Stack:** `Python (Flask) • MySQL • HTML5 • CSS3 • Database Design`
 
-[📁 View Repository](https://github.com/sunil-kumar45/railway-database-management-system)
+[📁 View Repository](https://github.com/sunil-kumar45/Railway_Management_System.)
 
 ---
 
