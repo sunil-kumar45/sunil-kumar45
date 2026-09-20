@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Ramavath Sunil Kumar Banner" width="100%" style="display: block; width: 100%; max-width: 1024px; border-radius: 8px;" />
+  <img src="./banner.png" alt="Ramavath Sunil Kumar Banner" width="100%" style="display: block; width: 100%; max-width: 1024px; border-radius: 8px;" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ramavath-sunil-kumar-3108472aa" target="_blank">
+  <a href="https://www.linkedin.com/in/ramavath-sunil-kumar-3108472aa" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;&nbsp;
-  <a href="https://github.com/sunil-kumar45" target="_blank">
+  <a href="https://github.com/sunil-kumar45" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/s_u_n_i_l_kumar_45?stkn=bzc0ZGNjZWJtZTlq" target="_blank">
+  <a href="https://www.instagram.com/s_u_n_i_l_kumar_45?stkn=bzc0ZGNjZWJtZTlq" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
@@ -106,7 +106,7 @@ Interactive analytical dashboard analyzing accidents in rural and urban areas ov
 
 **Tech Stack:** `Power BI • Excel • Data Analytics • EDA • Tableau`
 
-[📁 View Repository](https://github.com/sunil-kumar45/Road-accidents-dashboard-using-excel)
+[📁 View Repository](https://github.com/sunil-kumar45/road-accidents-dashboard)
 
 
 ### ⭐ Movie Recommendation System
@@ -136,7 +136,7 @@ Full-stack database management system for train schedules, seat reservations, li
 
 **Tech Stack:** `Python (Flask) • MySQL • HTML5 • CSS3 • Database Design`
 
-[📁 View Repository](https://github.com/sunil-kumar45/Railway_Management_System.)
+[📁 View Repository](https://github.com/sunil-kumar45/railway-database-management-system)
 
 ---
 
